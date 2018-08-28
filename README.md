@@ -6,7 +6,7 @@ Muitos aspectos estão envolvidos no desenvolvimento de software funcional e de 
 
 # Disciplina Análise de Sistemas - ETIM Informática - EteABS
 
-[Wiki com programa completo da disciplina (+slides)](https://github.com/eteabs)
+[Wiki com programa completo da disciplina (+slides)](https://github.com/eteabs/analise-de-sistemas/wiki)
 
 # Projetos 2º S 2018/02
 
