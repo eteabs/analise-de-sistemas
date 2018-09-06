@@ -10,7 +10,7 @@ Muitos aspectos estão envolvidos no desenvolvimento de software funcional e de 
 
 # Projetos 2º S 2018/02
 
-* Grupo 01
-* Grupo 02
-* Grupo 03
-* Grupo 04
+* [Pet Save](https://github.com/eteabs/analise-de-sistemas-2S-2018-pet-save) - Felipe, Izabella, Judah e Kaylan
+* [Gold Ideia](https://github.com/eteabs/analise-de-sistemas-2S-2018-gold-ideia) - Cesar, David, Erick, João, João Gabriel, Luis Augusto
+* [Pro Store](https://github.com/eteabs/analise-de-sistemas-2S-2018-prostore) - Carol, Giovane, Jonathan, Larissa e Lucca
+* [i-Cake](https://github.com/eteabs/analise-de-sistemas-2S-2018-i-cake) - Eduardo, Lucas e Gustavo
